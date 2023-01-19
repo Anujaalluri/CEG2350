@@ -13,11 +13,13 @@
 
 ## Part 2 Answers
 
-1.
+1.touch test.txt
 2. File contents:
 
 ```
-**file contents here**
+hey everyone welcome to CEG2350 class
+dump trash in dumptser
+goodbye
 ```
 
 ## Part 3 Answers
