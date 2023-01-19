@@ -1,15 +1,15 @@
 ## Lab 01
 
-- Name:
-- Email:
+- Name:anuja alluri
+- Email:alluri.17@wright.edu
 
 ## Part 1 Answers
 
-1.
-2.
-3.
+1.mkdir DirA
+2.mkdir "Dir B"
+3.cd "Dir B"
 4.
-5.
+5.mv "Dir B" DirB
 
 ## Part 2 Answers
 
