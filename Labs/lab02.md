@@ -1,7 +1,7 @@
 ## Lab 02
 
-- Name:
-- Email
+- Name:anuja alluri
+- Email: alluri.17@wright.edu
 
 ## Part 1 Answers
 
