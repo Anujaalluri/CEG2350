@@ -17,29 +17,26 @@
 2. File contents:
 
 ```
-hey everyone welcome to CEG2350 class
-dump trash in dumptser
-goodbye
+rm -r command used to remove file
+cp -r command is used to copy the file
+mkdir command is used to make directory
 ```
 
 ## Part 3 Answers
 
 1.cp -r test.txt .hiddenext.txt
-2.ls (to see all files )
-cd DirA (to open DirA)
-ls (to see files in DirA)
+2.ls , cd DirA , ls 
 ## Part 4 Answers
 
 1. SSH command to sign in to your AWS instance:
 
 ```
-**write command here so it will look fancy on GitHub**
+  ssh -i keyfilename ubuntu@IP
 ```
 
 ## Part 5 Answers
 
 1. Command to clone your GitHub repository:
 
-```
-**write command here so it will look fancy on GitHub**
+```git clone "repository URL"
 ```
