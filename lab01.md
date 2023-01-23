@@ -24,9 +24,10 @@ goodbye
 
 ## Part 3 Answers
 
-1.
-2.
-
+1.cp -r test.txt .hiddenext.txt
+2.ls (to see all files )
+cd DirA (to open DirA)
+ls (to see files in DirA)
 ## Part 4 Answers
 
 1. SSH command to sign in to your AWS instance:
