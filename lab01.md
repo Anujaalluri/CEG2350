@@ -8,7 +8,7 @@
 1.mkdir DirA
 2.mkdir "Dir B"
 3.cd "Dir B"
-4.
+4.mv command is used for naming.
 5.mv "Dir B" DirB
 
 ## Part 2 Answers
@@ -38,5 +38,6 @@ mkdir command is used to make directory
 
 1. Command to clone your GitHub repository:
 
-```git clone "repository URL"
+```
+  git clone "repository URL"
 ```
