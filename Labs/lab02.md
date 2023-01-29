@@ -33,7 +33,7 @@ For each, write the command used or answer the question posed.
 1.sudo groupadd crew
 2.sudo usermod -aG crew bob
 3.sudo chgrp crew DirA
-4.
+4.su bob 
 5.
 6.
 
@@ -41,9 +41,10 @@ For each, write the command used or answer the question posed.
 
 For each, write the command used or answer the question posed.
 
-1.
-2.
-3.
+1.sudo touch sudowho.txt
+2.-rw-r--r--
+3.vim sudowho.txt
+add text then ":wq!" to overwrite and save
 
 ## Part 5 Answers
 
