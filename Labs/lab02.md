@@ -17,22 +17,22 @@ and push them (sync) with GitHub
 
 For each, write the command used or answer the question posed.
 
-1.
-2.
-3.
-4.
-5.
-6.
-7.
-8.
+1.sudo adduser bob
+2./home/bob
+3.no because i dont have any permissions
+4.su bob
+5.cd ~
+6.as bob as owner he has permissions to add files
+7.exit
+8.cd
 
 ## Part 3 Answers
 
 For each, write the command used or answer the question posed.
 
-1.
-2.
-3.
+1.sudo groupadd crew
+2.sudo usermod -aG crew bob
+3.sudo chgrp crew DirA
 4.
 5.
 6.
