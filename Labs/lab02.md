@@ -48,7 +48,7 @@ add text then ":wq!" to overwrite and save
 
 ## Part 5 Answers
 
-1. `ssh` command before configuring `config` file:
+1. `ssh` command before configuring `config` file: ssh -i ceg.pem ubuntu@52.87.136.118
 2. HostName:
 3. User:
 4. IdentityFile:
