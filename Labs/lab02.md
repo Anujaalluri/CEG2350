@@ -22,7 +22,7 @@ For each, write the command used or answer the question posed.
 3.no because i dont have any permissions
 4.su bob
 5.cd ~
-6.as bob as owner he has permissions to add files
+6. bob is the  owner he has permissions to add files to his directory.
 7.exit
 8.cd
 
@@ -49,9 +49,9 @@ add text then ":wq!" to overwrite and save
 ## Part 5 Answers
 
 1. `ssh` command before configuring `config` file: ssh -i ceg.pem ubuntu@52.87.136.118
-2. HostName:
-3. User:
-4. IdentityFile:
+2. HostName:52.87.136.118
+3. User:ubuntu
+4. IdentityFile:ceg.pem
 5. `~/.ssh/config` contents:
 
 ```
