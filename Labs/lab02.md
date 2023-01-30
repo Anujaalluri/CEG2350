@@ -51,11 +51,14 @@ add text then ":wq!" to overwrite and save
 1. `ssh` command before configuring `config` file: ssh -i ceg.pem ubuntu@52.87.136.118
 2. HostName:52.87.136.118
 3. User:ubuntu
-4. IdentityFile:ceg.pem
+4. IdentityFile:/Users/raj/ceg.pem
 5. `~/.ssh/config` contents:
 
 ```
-Paste your config file entry here
+Host anu
+    HostName 52.87.136.118
+    User ubuntu
+    IdentityFile /Users/raj/ceg.pem
 ```
 
-6. `ssh` command after configuring `config` file:
+6. `ssh` command after configuring `config` file: ssh anu
