@@ -1,13 +1,13 @@
 ## Lab 03
 
-- Name:
-- Email
+- Name: anuja alluri
+- Email: alluri.17@wright.edu
 
 ## Part 1 Answers
 
-1. Verify here that input.txt made it to GitHub in your `Lab03` folder
-2.
-3.
+1. Verify here that input.txt made it to GitHub in your `Lab03` folder : 
+2. sort input.txt
+3. sort < input.txt > output.txt
 
 ## Script Usage Guide
 
