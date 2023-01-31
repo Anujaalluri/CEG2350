@@ -34,8 +34,8 @@ For each, write the command used or answer the question posed.
 2.sudo usermod -aG crew bob
 3.sudo chgrp crew DirA
 4.su bob 
-5.
-6.
+5.touch "file.txt"
+6.Because bob is a part of crew group which has permissions to DirA
 
 ## Part 4 Answers
 
