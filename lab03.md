@@ -11,7 +11,7 @@
 
 ## Script Usage Guide
 
-1. How to run
+1. How to run :./sorting_party.sh
 2. What extensions are expected
 3. What is the output
 
