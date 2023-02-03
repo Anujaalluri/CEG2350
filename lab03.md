@@ -11,9 +11,9 @@
 
 ## Script Usage Guide
 
-1. How to run :./sorting_party.sh
-2. What extensions are expected
-3. What is the output
+1. How to run : ./sorting_party.sh
+2. What extensions are expected: .sh
+3. What is the output: 
 
 ## Part 5 Answers
 
