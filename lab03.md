@@ -13,21 +13,22 @@
 
 1. How to run : ./sorting_party.sh
 2. What extensions are expected: .sh
-3. What is the output: 
+3. What is the output: sorted file of input.txt
 
 ## Part 5 Answers
 
-1. PATH = /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin
+1. PATH = echo $PATH
 
-2.usr/local/bin
+2. PATH="$HOME/.local/bin:$PATH"
 
-3. Command:sudo mkdir apple
-   - Full path:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/usr/local/bin/apple
-4. PATH =
-   - Difference:
-5.
-6.
-7.
+3. Command:mkdir bin, pwd
+   - Full path:/home/ubuntu
+4. PATH =/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin
+
+   - Difference:apple is added: /home/ubuntu
+5. cp sorting_party.sh /home/ubuntu
+6.chmod 700 sorting_party.sh
+7.only user can run the file
 
 ## Extra Credit
 
