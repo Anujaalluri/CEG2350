@@ -5,7 +5,7 @@
 
 ## Part 1 Answers
 
-1. Verify here that input.txt made it to GitHub in your `Lab03` folder : 
+1. Verify here that input.txt made it to GitHub in your `Lab03` folder :  ls
 2. sort input.txt
 3. sort < input.txt > output.txt
 
