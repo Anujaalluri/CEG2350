@@ -17,10 +17,12 @@
 
 ## Part 5 Answers
 
-1. PATH =
-2.
-3. Command:
-   - Full path:
+1. PATH = /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin
+
+2.usr/local/bin
+
+3. Command:sudo mkdir apple
+   - Full path:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/usr/local/bin/apple
 4. PATH =
    - Difference:
 5.
