@@ -13,7 +13,7 @@
 
 1. How to run : ./sorting_party.sh
 2. What extensions are expected: .sh
-3. What is the output: sorted input.txt file
+3. What is the output: sorted file of input.txt into output.txt
 
 ## Part 5 Answers
 
