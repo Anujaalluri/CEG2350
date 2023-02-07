@@ -13,11 +13,13 @@
 ## Part 2 Answers
 
 1.
-2.
-3.
-4.
-5.
-6.
+2.sed -i 's/<li>/-/g' sedfile.html
+3.sed -i 's/<h1>/#/g' sedfile.html
+4.sed -i 's/<h2>/##/g' sedfile.html
+5.sed -i 's/<html>//g' sedfile.html 
+  sed -i 's/<ul>//g'  sedfile.html
+  
+6.sed -i 's/Batches/Matches/' sedfile.html
 
 ## Part 3 Answers
 
