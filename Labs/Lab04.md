@@ -22,7 +22,7 @@
 ## Part 3 Answers
 
 1. awk '$1~/Bil/ {print $1}' records.tx
-2.awk '$4~/42/ {print $3}' records.txt 
-3.awk '$3~/wright.edu/ {print $2",",$1": "$3 }' records.txt
-4.awk '$3~/wright.edu/ &&$6~/1234/{print $2 " favorite number is:", $4}' records.txt
-5.
+2. awk '$4~/42/ {print $3}' records.txt 
+3. awk '$3~/wright.edu/ {print $2",",$1": "$3 }' records.txt
+4. awk '$3~/wright.edu/ &&$6~/1234/{print $2 " favorite number is:", $4}' records.txt
+5. awk '{ gsub($6,"N0T@PL@!NP@$$W0RD",$6); print $0}' records.txt > updaterecords.txt
