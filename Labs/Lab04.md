@@ -12,7 +12,7 @@
 
 ## Part 2 Answers
 
-1.
+1. `sed -i 's|</h1>||g' sedfile.html , sed -i 's|</h2>||g' sedfile.html , sed -i 's|</html>||g' sedfile.html`
 2. `sed -i 's/<li>/-/g' sedfile.html`
 3. `sed -i 's/<h1>/#/g' sedfile.html`
 4. `sed -i 's/<h2>/##/g' sedfile.html`
